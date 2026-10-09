@@ -25,4 +25,3 @@ An expense becomes available for transfer only when **PM status = Approved** and
 
 ## Important
 Keep `Code.gs` private. Do not publish `ADMIN_PIN` or `API_SECRET` in a public GitHub repository.
-
